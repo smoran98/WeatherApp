@@ -60,10 +60,10 @@ namespace UWPWeather
         public double temp { get; set; }
 
         [DataMember]
-        public int pressure { get; set; }
+        public double pressure { get; set; }
 
         [DataMember]
-        public int humidity { get; set; }
+        public double humidity { get; set; }
 
         [DataMember]
         public double temp_min { get; set; }
@@ -79,7 +79,7 @@ namespace UWPWeather
         public double speed { get; set; }
 
         [DataMember]
-        public int deg { get; set; }
+        public double deg { get; set; }
     }
 
     /*
