@@ -1,0 +1,1 @@
+C:\Users\G00338607\Desktop\WeatherApp\UWPWeather\UWPWeather\UWPWeather.csproj;x86

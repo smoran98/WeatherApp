@@ -1,4 +1,4 @@
-﻿// G00338607
+﻿
 <Page
     x:Class="UWPWeather.MainPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
@@ -8,7 +8,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <StackPanel Background="HotPink">
+    <StackPanel Background="Blue">
         <Button Content="Get Weather" Click="Button_Click" />
         <TextBlock Name="ResultTextBlock" />
         <Image Name="ResultImage" Width="200" Height="200" />
