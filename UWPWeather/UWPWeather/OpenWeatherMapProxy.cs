@@ -15,7 +15,8 @@ namespace UWPWeather
         public async static Task<RootObject> GetWeather(double lat, double lon)
         {
             var http = new HttpClient();
-            var response = await http.GetAsync("http://api.openweathermap.org/data/2.5/weather?lat=32.77&lon=-96.79&units=imperial");
+            var url = String.Format("http://api.openweathermap.org/data/2.5/weather?lat={0}&lon={1}&units=imperial", lat, lon);
+            var response = await http.GetAsync(url);
             var result = await response.Content.ReadAsStringAsync();
             var serializer = new DataContractJsonSerializer(typeof(RootObject));
 
