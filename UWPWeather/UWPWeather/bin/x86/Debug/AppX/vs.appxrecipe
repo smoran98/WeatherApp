@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\Users\G00338607\Desktop\WeatherApp\UWPWeather\UWPWeather\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-12T13:45:59.058</Modified>
+      <Modified>2018-04-12T14:21:40.586</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\G00338607\Desktop\WeatherApp\UWPWeather\UWPWeather\bin\x86\Debug\UWPWeather.exe">
       <PackagePath>entrypoint\UWPWeather.exe</PackagePath>
-      <Modified>2018-04-12T13:45:52.819</Modified>
+      <Modified>2018-04-12T14:21:35.966</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\G00338607\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -470,7 +470,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\G00338607\Desktop\WeatherApp\UWPWeather\UWPWeather\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
-      <Modified>2018-04-12T13:26:33.207</Modified>
+      <Modified>2015-09-30T16:50:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\G00338607\Desktop\WeatherApp\UWPWeather\UWPWeather\Assets\Weather\01d.png">
       <PackagePath>Assets\Weather\01d.png</PackagePath>
@@ -580,11 +580,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\G00338607\Desktop\WeatherApp\UWPWeather\UWPWeather\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2018-04-12T13:28:37.828</Modified>
+      <Modified>2015-09-30T16:50:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\G00338607\Desktop\WeatherApp\UWPWeather\UWPWeather\bin\x86\Debug\UWPWeather.xr.xml">
       <PackagePath>UWPWeather.xr.xml</PackagePath>
-      <Modified>2018-04-12T13:45:52.057</Modified>
+      <Modified>2018-04-12T13:55:07.200</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -592,11 +592,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\G00338607\Desktop\WeatherApp\UWPWeather\UWPWeather\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2018-04-12T13:45:58.156</Modified>
+      <Modified>2018-04-12T14:21:40.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\G00338607\Desktop\WeatherApp\UWPWeather\UWPWeather\bin\x86\Debug\Core\UWPWeather.exe">
       <PackagePath>UWPWeather.exe</PackagePath>
-      <Modified>2018-04-12T13:45:59.054</Modified>
+      <Modified>2018-04-12T14:21:40.581</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
